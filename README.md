@@ -1,20 +1,49 @@
-## Hi there 👋
 
-<!--
-**athrvapawar14-arch/athrvapawar14-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Athrva 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Science Student · Developer · Builder
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://athrvapawar.me">Portfolio</a>
+  ·
+  <a href="https://github.com/athrvapawar14-arch">GitHub</a>
+</p>
 
-## GitHub Contributions
+---
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
+### About Me
+
+- 🎓 CSE student at HITAM, Hyderabad
+- 💻 Exploring systems programming, automation, and AI
+- 🛠️ Building projects to learn by doing
+- 🌱 Currently learning and experimenting with new technologies
+
+### Tech Stack
+
+**Languages**
+
+`C` `Python` `Java` `SQL` `JavaScript`
+
+**Tools & Technologies**
+
+`Git` `Linux` `Docker` `React` `n8n` `MySQL`
+
+### Featured Projects
+
+- **DeskUI / RICE** — JavaFX desktop customization
+- **Monitoring & Automation** — Infrastructure monitoring and workflows
+- **Neural Networks** — Learning neural networks from the ground up
+
+<!-- Replace these examples with links to your actual repositories. -->
+
+### GitHub Activity
+
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+
+---
+
+<p align="center">
+  Building, breaking, learning, and building again.
+</p>
